@@ -5,6 +5,12 @@
 **motion-html-skill** is an installable agent skill for generating premium animated HTML effects from natural-language briefs, reference images, existing web demos, or short video-effect descriptions.
 
 <p align="center">
+  <img src="./assets/preview-reference-fusion-cn.gif" alt="3D reference fusion motion" width="100%">
+</p>
+
+**3D reference fusion motion**: model language from sci-fi devices, motion logic from exploded objects, particle convergence, and camera push-in, recomposed as one original interactive HTML module.
+
+<p align="center">
   <img src="./assets/preview-growth-cn.gif" alt="AI growth 3D motion" width="100%">
 </p>
 
@@ -31,6 +37,7 @@
 <p align="center">
   <a href="./SKILL.md"><strong>Skill File</strong></a> ·
   <a href="./references/effect-workflow.md"><strong>Effect Workflow</strong></a> ·
+  <a href="./reference-fusion-demo.html"><strong>3D Fusion Case</strong></a> ·
   <a href="./index.html"><strong>Demo Entry</strong></a> ·
   <a href="./ai-training-html-deck.html"><strong>HTML Deck Case</strong></a>
 </p>

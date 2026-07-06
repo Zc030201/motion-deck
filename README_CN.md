@@ -11,6 +11,12 @@
 **motion-html-skill** 是一个给智能体安装使用的动效网页 Skill。它的目标是让 Agent 根据自然语言描述、图片参考、网页案例或视频片段，生成或复刻出高级动画 HTML 效果。
 
 <p align="center">
+  <img src="./assets/preview-reference-fusion-cn.gif" alt="3D 参考融合动效" width="100%">
+</p>
+
+**3D 参考融合动效**：模型语言参考科幻设备/飞行器，动效逻辑参考碎片展开、粒子聚合和镜头推进，最终合成为原创可交互 HTML 模块。
+
+<p align="center">
   <img src="./assets/preview-growth-cn.gif" alt="AI 增长 3D 动效" width="100%">
 </p>
 
@@ -37,6 +43,7 @@
 <p align="center">
   <a href="./SKILL.md"><strong>Skill 文件</strong></a> ·
   <a href="./references/effect-workflow.md"><strong>动效工作流</strong></a> ·
+  <a href="./reference-fusion-demo.html"><strong>3D 融合案例</strong></a> ·
   <a href="./index.html"><strong>演示入口</strong></a> ·
   <a href="./ai-training-html-deck.html"><strong>完整 HTML 案例</strong></a>
 </p>
@@ -114,6 +121,7 @@ motion-html-skill/
   agents/openai.yaml               # Skill UI 元数据
   references/effect-workflow.md    # 联网参考与复杂动效工作流
   index.html                       # 默认中文演示入口
+  reference-fusion-demo.html       # 模型参考 + 动效参考融合案例
   ai-training-html-deck.html       # 完整交互课件案例
   bili-inspired-growth-module.html # 3D 趋势模块案例
   bili-11-15-replica.html          # 视频灵感动效案例
