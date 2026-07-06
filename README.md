@@ -1,8 +1,8 @@
 # motion-deck
 
-[![GitHub license](https://img.shields.io/github/license/hugohe3/motion-deck?label=License)](./LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/hugohe3/motion-deck)](https://github.com/hugohe3/motion-deck/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/hugohe3/motion-deck)](https://github.com/hugohe3/motion-deck/commits/main)
+[![GitHub license](https://img.shields.io/github/license/Zc030201/motion-deck?label=License)](./LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Zc030201/motion-deck)](https://github.com/Zc030201/motion-deck/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Zc030201/motion-deck)](https://github.com/Zc030201/motion-deck/commits/main)
 
 High-end interactive HTML deck and 3D animation toolkit for AI training and demos.
 
@@ -48,4 +48,3 @@ Then open:
 ## License
 
 MIT. See [LICENSE](./LICENSE).
-
