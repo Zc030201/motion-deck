@@ -26,7 +26,7 @@
   <img src="./assets/preview-physics-cn.gif" alt="牛顿摆物理动效" width="100%">
 </p>
 
-**物理页面动效**：参考视频 19 秒附近的纸面物理页，使用扁平单线摆球、无高光无阴影的图形语言，保留干净的课程式排版。
+**物理页面动效**：参考视频 19 秒附近的纸面物理页，使用扁平单线摆球、无高光无阴影的图形语言，表现左侧橙色球与右侧黑球的交替传递。
 
 <p align="center">
   <img src="./assets/preview-agent-cn.gif" alt="Agent 编排动效" width="100%">

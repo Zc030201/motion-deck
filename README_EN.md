@@ -20,7 +20,7 @@
   <img src="./assets/preview-physics-cn.gif" alt="Newton cradle physics motion" width="100%">
 </p>
 
-**Physics page motion**: inspired by the paper-toned physics scene around 19s, using flat single-line pendulum balls with no highlight or shadow.
+**Physics page motion**: inspired by the paper-toned physics scene around 19s, using flat single-line pendulum balls with no highlight or shadow and alternating left/right energy transfer.
 
 <p align="center">
   <img src="./assets/preview-agent-cn.gif" alt="Agent orchestration motion" width="100%">
