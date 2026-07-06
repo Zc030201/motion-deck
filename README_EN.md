@@ -5,13 +5,28 @@
 **motion-html-skill** is an installable agent skill for generating premium animated HTML effects from natural-language briefs, reference images, existing web demos, or short video-effect descriptions.
 
 <p align="center">
-  <img src="./assets/preview-growth-cn.gif" alt="AI growth 3D motion" width="48%">
-  <img src="./assets/preview-assembly-cn.gif" alt="fragment assembly motion" width="48%">
+  <img src="./assets/preview-growth-cn.gif" alt="AI growth 3D motion" width="100%">
 </p>
+
+**AI growth motion**: for technology trends, capability leaps, data growth, and course-cover hero visuals.
+
 <p align="center">
-  <img src="./assets/preview-physics-cn.gif" alt="physics interaction motion" width="48%">
-  <img src="./assets/preview-agent-cn.gif" alt="Agent orchestration motion" width="48%">
+  <img src="./assets/preview-assembly-cn.gif" alt="3D assembly motion" width="100%">
 </p>
+
+**3D assembly motion**: for exploded models, part separation, object assembly, and spatial transformation effects.
+
+<p align="center">
+  <img src="./assets/preview-physics-cn.gif" alt="Newton cradle physics motion" width="100%">
+</p>
+
+**Newton cradle physics motion**: based on the second physics scene layout from `bili-11-15-replica.html`, using the paper-toned lecture style with a Newton cradle on the right.
+
+<p align="center">
+  <img src="./assets/preview-agent-cn.gif" alt="Agent orchestration motion" width="100%">
+</p>
+
+**Agent orchestration motion**: for multi-agent collaboration, task decomposition, tool calling, memory feedback, and workflow loops.
 
 <p align="center">
   <a href="./SKILL.md"><strong>Skill File</strong></a> ·

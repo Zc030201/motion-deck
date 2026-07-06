@@ -11,13 +11,28 @@
 **motion-html-skill** 是一个给智能体安装使用的动效网页 Skill。它的目标是让 Agent 根据自然语言描述、图片参考、网页案例或视频片段，生成或复刻出高级动画 HTML 效果。
 
 <p align="center">
-  <img src="./assets/preview-growth-cn.gif" alt="AI 增长 3D 动效" width="48%">
-  <img src="./assets/preview-assembly-cn.gif" alt="碎片合成模型动效" width="48%">
+  <img src="./assets/preview-growth-cn.gif" alt="AI 增长 3D 动效" width="100%">
 </p>
+
+**AI 增长 3D 动效**：适合展示技术趋势、能力跃迁、数据增长和课程封面，强调空间轨迹、粒子流与能力曲线。
+
 <p align="center">
-  <img src="./assets/preview-physics-cn.gif" alt="物理碰撞交互动效" width="48%">
-  <img src="./assets/preview-agent-cn.gif" alt="Agent 编排动效" width="48%">
+  <img src="./assets/preview-assembly-cn.gif" alt="3D 装配动效" width="100%">
 </p>
+
+**3D 装配动效**：适合复刻“模型拆分、零件展开、拖拽合成、结构重组”等效果，展示 Agent 可以把抽象描述转成具体空间运动。
+
+<p align="center">
+  <img src="./assets/preview-physics-cn.gif" alt="牛顿摆物理动效" width="100%">
+</p>
+
+**牛顿摆物理动效**：参考 `bili-11-15-replica.html` 第二个物理页面的纸面布局与配色，适合做力学、碰撞、重力、摆动等课堂式可视化。
+
+<p align="center">
+  <img src="./assets/preview-agent-cn.gif" alt="Agent 编排动效" width="100%">
+</p>
+
+**Agent 编排动效**：适合展示多智能体协作、任务拆解、工具调用、记忆反馈和流程闭环。
 
 <p align="center">
   <a href="./SKILL.md"><strong>Skill 文件</strong></a> ·
